@@ -11,8 +11,8 @@ A feature-rich **desktop application** for Digital Image Processing built with P
 | **Mohamed Elhadad** | Developer |
 | **Ahmed Shamh** | Developer |
 | **Mohamed Elfiky** | Developer |
-| **Huda Mahmoud** | Developer |
 | **Hagar Ayman** | Developer |
+| **Huda Mahmoud** | Developer |
 
 ---
 
@@ -25,7 +25,6 @@ A feature-rich **desktop application** for Digital Image Processing built with P
 - [Installation](#installation)
 - [Usage](#usage)
 - [Operations Reference](#operations-reference)
-- [Screenshots](#screenshots)
 
 ---
 
